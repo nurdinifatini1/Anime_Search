@@ -1,3 +1,9 @@
+# Getting Started with Anime Search
+
+https://nurdinifatini1.github.io/Anime_Search/
+
+use the link for live site to do anime searching 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
